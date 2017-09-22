@@ -1,0 +1,8 @@
+prefix=/home/chke/base_control/install
+
+Name: serila_controller
+Description: Description of serila_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/chke/base_control/install/lib 
+Requires: 

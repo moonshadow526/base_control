@@ -1,0 +1,2 @@
+serila_controller
+-DCATKIN_DEVEL_PREFIX=/home/chke/base_control/devel -DCMAKE_INSTALL_PREFIX=/home/chke/base_control/install -G Unix Makefiles
